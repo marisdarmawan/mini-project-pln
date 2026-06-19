@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+google-genai
+sqlalchemy
+psycopg2-binary
